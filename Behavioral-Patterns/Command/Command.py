@@ -8,7 +8,7 @@ the menu, and therefore they can support commands to cook many different items.
 
 Problem:
 Need to issue requests to objects without knowing anything about the operation being requested or the receiver 
-of the request.
+of the request.,
 
 *References:
 https://sourcemaking.com/design_patterns/command/python/1
