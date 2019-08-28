@@ -21,7 +21,6 @@ class Invoker:
     """
     Ask the command to carry out the request.
     """
-    testte = "1"
 
     def __init__(self):
         self._commands = []
